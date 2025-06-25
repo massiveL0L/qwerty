@@ -1,7 +1,7 @@
 
 # qwerty
 
-A roblox executor that has different flavors. Flavors can mean API's I guess. There is a whole lot of them!
+A Roblox executor that has different flavors. Flavors can mean API's I guess. There is a whole lot of them!
 
 
 
